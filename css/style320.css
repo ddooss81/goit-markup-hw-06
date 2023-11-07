@@ -156,7 +156,7 @@
   }
 
   .soc_div_footer {
-    margin: 72px 0;
+    padding: 72px 0;
     display: block;
     text-align: center;
     align-items: center;
@@ -252,8 +252,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: flex-start;
-    align-self: center;
+    /* align-items: flex-start;
+    align-self: center; */
   }
 
   .nav_list_header_modal {
