@@ -182,13 +182,11 @@
   }
 
   .soc_div_footer {
-    padding: 0px 0px 0 24px;
+    padding: 0px 0;
     display: block;
     text-align: center;
     align-items: start;
     justify-content: center;
-    margin: 0 0 0 0;
-    transform: translateY(-20px);
   }
 
   .footer_soc_li {
