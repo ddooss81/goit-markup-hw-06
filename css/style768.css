@@ -182,7 +182,7 @@
   }
 
   .soc_div_footer {
-    padding: 0px 0;
+    padding: 0px 0px 0px 24px;
     display: block;
     text-align: center;
     align-items: start;
@@ -269,5 +269,9 @@
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+  }
+
+  .modal_main {
+    padding: 72px 25px 24px 23px;
   }
 }

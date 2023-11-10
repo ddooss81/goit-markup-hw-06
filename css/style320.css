@@ -1,4 +1,4 @@
-@media (min-width: 320px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 767px) {
   .container {
     width: 320px;
     padding: 0 16px;
@@ -200,6 +200,7 @@
   .modal_main {
     width: 288px;
     max-width: 97%;
+    padding: 72px 17px 24px 16px;
   }
 
   .header_menu,
@@ -302,5 +303,9 @@
   }
   .soc_link_heder_menu .footer_soc_li {
     gap: 40px;
+  }
+
+  .header_nav_header li:first-child a {
+    color: #404bbf;
   }
 }

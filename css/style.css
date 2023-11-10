@@ -41,6 +41,7 @@ body {
   font-family: "Roboto", sans-serif;
   line-height: 14.906832%;
   color: rgba(67, 68, 85, 1);
+  /* font-size: 16px; */
   background-color: #ffffff;
   overflow-x: hidden;
 }
